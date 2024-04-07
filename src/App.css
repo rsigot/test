@@ -1,0 +1,25 @@
+img{
+	width:400px;
+}
+.caja{
+	user-select:none;
+	font-size:3rem;
+	display:flex;
+	align-items:center;
+}
+input{
+	color:red;
+	width:100px;
+	line-height:100px;
+	margin:6px;
+	text-align:center;
+	border-radius:8px;
+	border:1px dotted darkred;
+	outline:none;
+	font-size:4rem;
+}
+button{
+	font-size:2rem;
+	padding:5px 15px;
+	color:green;
+}
