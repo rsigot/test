@@ -47,6 +47,7 @@ function App() {
 	}
   return (
 	<>
+	<h1>Hola Mundo</h1>
     <div ref={refCaja} className="caja" onClick={incr}>1</div>
     <button onClick={conv}>Aceptar</button>
 	<div><img onClick={cambiar} src={img0}/></div>
